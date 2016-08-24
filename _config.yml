@@ -1,0 +1,14 @@
+layout_spectrum: 0.6070491981226951
+typography_spectrum: 0.10317100351676345
+color:
+  brandStrength: 0.2260629751253873
+  lightness: 0.8714321290608495
+  saturation: 0.9350443573202938
+  rhythmicContrast: 0.07106127822771668
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: VOL
