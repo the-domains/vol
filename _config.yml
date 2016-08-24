@@ -1,4 +1,3 @@
-layout_spectrum: 0.10927119082771242
 typography_spectrum: 0.37606082507409155
 color:
   brandStrength: 0.26306927273981273
@@ -7,6 +6,7 @@ color:
   rhythmicContrast: 0.7165337207261473
   brandColors:
     - '#010101'
+layout_spectrum: 0.10927119082771242
 name: VOL
 title: SYNTHS PLAYED LIVE
 description: '#NOCOMPUTER'
